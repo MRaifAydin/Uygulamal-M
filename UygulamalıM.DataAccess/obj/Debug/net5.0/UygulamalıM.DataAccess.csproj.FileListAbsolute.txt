@@ -1,0 +1,17 @@
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.DataAccess.deps.json
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.DataAccess.runtimeconfig.json
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.DataAccess.runtimeconfig.dev.json
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.DataAccess.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\ref\UygulamalıM.DataAccess.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.DataAccess.pdb
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.Entities.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\bin\Debug\net5.0\UygulamalıM.Entities.pdb
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.AssemblyInfo.cs
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\ref\UygulamalıM.DataAccess.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.pdb
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.DataAccess\obj\Debug\net5.0\UygulamalıM.DataAccess.genruntimeconfig.cache

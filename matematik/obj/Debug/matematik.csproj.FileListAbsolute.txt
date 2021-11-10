@@ -1,0 +1,7 @@
+C:\Users\mert5\source\repos\UygulamalıM\matematik\bin\Debug\matematik.exe.config
+C:\Users\mert5\source\repos\UygulamalıM\matematik\bin\Debug\matematik.exe
+C:\Users\mert5\source\repos\UygulamalıM\matematik\bin\Debug\matematik.pdb
+C:\Users\mert5\source\repos\UygulamalıM\matematik\obj\Debug\matematik.csproj.AssemblyReference.cache
+C:\Users\mert5\source\repos\UygulamalıM\matematik\obj\Debug\matematik.csproj.CoreCompileInputs.cache
+C:\Users\mert5\source\repos\UygulamalıM\matematik\obj\Debug\matematik.exe
+C:\Users\mert5\source\repos\UygulamalıM\matematik\obj\Debug\matematik.pdb

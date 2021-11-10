@@ -1,0 +1,12 @@
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\bin\Debug\net5.0\UygulamalıM.Entities.deps.json
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\bin\Debug\net5.0\UygulamalıM.Entities.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\bin\Debug\net5.0\ref\UygulamalıM.Entities.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\bin\Debug\net5.0\UygulamalıM.Entities.pdb
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.csproj.AssemblyReference.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.AssemblyInfoInputs.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.AssemblyInfo.cs
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\ref\UygulamalıM.Entities.dll
+C:\Users\mert5\source\repos\UygulamalıM\UygulamalıM.Entities\obj\Debug\net5.0\UygulamalıM.Entities.pdb

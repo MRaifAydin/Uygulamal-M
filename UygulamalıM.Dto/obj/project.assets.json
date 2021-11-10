@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "UygulamalıM.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UygulamalıM.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UygulamalıM.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UygulamalıM.Entities/1.0.0": {
+      "type": "project",
+      "path": "../UygulamalıM.Entities/UygulamalıM.Entities.csproj",
+      "msbuildProject": "../UygulamalıM.Entities/UygulamalıM.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "UygulamalıM.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mert5\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mert5\\source\\repos\\UygulamalıM\\UygulamalıM.Dto\\UygulamalıM.Dto.csproj",
+      "projectName": "UygulamalıM.Dto",
+      "projectPath": "C:\\Users\\mert5\\source\\repos\\UygulamalıM\\UygulamalıM.Dto\\UygulamalıM.Dto.csproj",
+      "packagesPath": "C:\\Users\\mert5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mert5\\source\\repos\\UygulamalıM\\UygulamalıM.Dto\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mert5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\mert5\\source\\repos\\UygulamalıM\\UygulamalıM.Entities\\UygulamalıM.Entities.csproj": {
+              "projectPath": "C:\\Users\\mert5\\source\\repos\\UygulamalıM\\UygulamalıM.Entities\\UygulamalıM.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
